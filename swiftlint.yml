@@ -9,9 +9,11 @@ disabled_rules:
 
 included:
   - Zip4Me
+  - Zip4MeCore
 excluded:
   - Zip4MeAppTests
   - Zip4MeAppUITests
+  - Zip4MeCoreTests
 
 type_name:
     max_length:
